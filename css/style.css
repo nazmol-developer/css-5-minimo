@@ -127,6 +127,9 @@ background:transparent;}
 height:80px;
 background-color:#bbbbbb;}
 
+.container-1{width:95%;
+    margin:0 auto;}
+
 .menu{display:inline-block;
 float:left;}
 
